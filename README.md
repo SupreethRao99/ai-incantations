@@ -1,4 +1,4 @@
-# ai-incantations
+# AI-Incantations 🪄
  
 ai-incantations is a versatile Python library that allows you to easily read, deserialize, and manage structured text files containing prompts and their contents. With its simple interface, ai-incantations enables you to access prompt contents using dot notation and seamlessly perform interpolation of placeholders within the contents.
 
