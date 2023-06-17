@@ -1,0 +1,7 @@
+category:
+    key1: """
+    This is a ${var1} string.
+    """
+    key2: """
+    This is a ${var1} string with a ${var2}.
+    """
