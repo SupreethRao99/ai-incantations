@@ -14,7 +14,7 @@ The library offers an intuitive approach to handling text files with a specific 
  
 To install ai-incantations, simply run the following command:
 ```
-pip install ai_incantations
+pip install ai-incantations
 ```
 or, to install from source, run:
 ```
